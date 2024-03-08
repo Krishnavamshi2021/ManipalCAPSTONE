@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [XYZSuite1]" guice-stage="DEVELOPMENT">
+  <test name="XYZ Bank Test Cases(failed)">
+    <classes>
+      <class name="com.xyz.qa.testcases.AddCustomerPageTestnegative">
+        <methods>
+          <include name="addcustomerttest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.xyz.qa.testcases.AddCustomerPageTestnegative -->
+      <class name="com.xyz.qa.testcases.WithdrawlPageTestneagtive">
+        <methods>
+          <include name="withdrawtestinvalidamount"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.xyz.qa.testcases.WithdrawlPageTestneagtive -->
+      <class name="com.xyz.qa.testcases.DepositPageTestnegative">
+        <methods>
+          <include name="invaliddeposittets"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.xyz.qa.testcases.DepositPageTestnegative -->
+    </classes>
+  </test> <!-- XYZ Bank Test Cases(failed) -->
+</suite> <!-- Failed suite [XYZSuite1] -->

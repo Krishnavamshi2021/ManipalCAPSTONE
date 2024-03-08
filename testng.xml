@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="XYZSuite1">
+	<!--parallel= "classes" thread-count="2" > 
+
+<class name="com.xyz.qa.testcases.CustomersPageTest" />
+  <parameter name="browser" value="chrome"></parameter>
+<parameter name="browser" value="Edge"></parameter>-->
+	<test thread-count="5" name="XYZ Bank Test Cases">
+		<classes>
+			<class name="com.xyz.qa.testcases.AddCustomerPageTest" />
+			<class name="com.xyz.qa.testcases.AddCustomerPageTestnegative" />
+			<class name="com.xyz.qa.testcases.TransactionPageTest" />
+			<class name="com.xyz.qa.testcases.CustomerLoginPageTest" />
+			<class name="com.xyz.qa.testcases.WithdrawlPageTest" />
+			<class name="com.xyz.qa.testcases.DepositPageTest" />
+			<class name="com.xyz.qa.testcases.HomePageCheckingTest" />
+			<class name="com.xyz.qa.testcases.OpenAccountPageTest" />
+			<class name="com.xyz.qa.testcases.WithdrawlPageTestneagtive" />
+			<class name="com.xyz.qa.testcases.DepositPageTestnegative" />
+			<class name="com.xyz.qa.testcases.BankManagerLoginPageTest" />
+		</classes>
+	</test> <!-- XYZ Bank Test Cases -->
+</suite> <!-- XYZSuite1 -->

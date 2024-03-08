@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="13" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T11:58:14Z" name="XYZSuite1" finished-at="2024-03-08T12:00:08Z" duration-ms="114215">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T11:58:14Z" name="XYZ Bank Test Cases" finished-at="2024-03-08T12:00:08Z" duration-ms="114215">
+      <class name="com.xyz.qa.testcases.BankManagerLoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.BankManagerLoginPageTest@7e5c856f]" started-at="2024-03-08T17:28:56Z" name="setUp" finished-at="2024-03-08T17:28:58Z" duration-ms="2506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="bankmanagerloginpagetest()[pri:1, instance:com.xyz.qa.testcases.BankManagerLoginPageTest@7e5c856f]" started-at="2024-03-08T17:28:58Z" name="bankmanagerloginpagetest" finished-at="2024-03-08T17:28:59Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankmanagerloginpagetest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.BankManagerLoginPageTest@7e5c856f]" started-at="2024-03-08T17:28:59Z" name="tearDown" finished-at="2024-03-08T17:28:59Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.BankManagerLoginPageTest -->
+      <class name="com.xyz.qa.testcases.WithdrawlPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.WithdrawlPageTest@46b61c56]" started-at="2024-03-08T17:28:34Z" name="setUp" finished-at="2024-03-08T17:28:39Z" duration-ms="4086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deposittest()[pri:1, instance:com.xyz.qa.testcases.WithdrawlPageTest@46b61c56]" started-at="2024-03-08T17:28:39Z" name="deposittest" finished-at="2024-03-08T17:28:39Z" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deposittest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.WithdrawlPageTest@46b61c56]" started-at="2024-03-08T17:28:39Z" name="tearDown" finished-at="2024-03-08T17:28:39Z" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.WithdrawlPageTest@46b61c56]" started-at="2024-03-08T17:28:59Z" name="setUp" finished-at="2024-03-08T17:29:03Z" duration-ms="4656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="withdrawtest()[pri:2, instance:com.xyz.qa.testcases.WithdrawlPageTest@46b61c56]" started-at="2024-03-08T17:29:03Z" name="withdrawtest" finished-at="2024-03-08T17:29:04Z" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withdrawtest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.WithdrawlPageTest@46b61c56]" started-at="2024-03-08T17:29:04Z" name="tearDown" finished-at="2024-03-08T17:29:04Z" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.WithdrawlPageTest -->
+      <class name="com.xyz.qa.testcases.DepositPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.DepositPageTest@2e48362c]" started-at="2024-03-08T17:28:39Z" name="setUp" finished-at="2024-03-08T17:28:42Z" duration-ms="2400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cuslgn()[pri:1, instance:com.xyz.qa.testcases.DepositPageTest@2e48362c]" started-at="2024-03-08T17:28:42Z" name="cuslgn" finished-at="2024-03-08T17:28:43Z" duration-ms="1392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cuslgn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.DepositPageTest@2e48362c]" started-at="2024-03-08T17:28:43Z" name="tearDown" finished-at="2024-03-08T17:28:43Z" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.DepositPageTest@2e48362c]" started-at="2024-03-08T17:29:30Z" name="setUp" finished-at="2024-03-08T17:29:32Z" duration-ms="2565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deposittets()[pri:2, instance:com.xyz.qa.testcases.DepositPageTest@2e48362c]" started-at="2024-03-08T17:29:32Z" name="deposittets" finished-at="2024-03-08T17:29:35Z" duration-ms="2400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deposittets -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.DepositPageTest@2e48362c]" started-at="2024-03-08T17:29:35Z" name="tearDown" finished-at="2024-03-08T17:29:35Z" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.DepositPageTest -->
+      <class name="com.xyz.qa.testcases.TransactionPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.TransactionPageTest@36060e]" started-at="2024-03-08T17:28:24Z" name="setUp" finished-at="2024-03-08T17:28:27Z" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="transactionpagetest()[pri:1, instance:com.xyz.qa.testcases.TransactionPageTest@36060e]" started-at="2024-03-08T17:28:27Z" name="transactionpagetest" finished-at="2024-03-08T17:28:30Z" duration-ms="2780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transactionpagetest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.TransactionPageTest@36060e]" started-at="2024-03-08T17:28:30Z" name="tearDown" finished-at="2024-03-08T17:28:30Z" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.TransactionPageTest -->
+      <class name="com.xyz.qa.testcases.HomePageCheckingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:28:43Z" name="setUp" finished-at="2024-03-08T17:28:46Z" duration-ms="3183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:28:46Z" name="loginPageTitleTest" finished-at="2024-03-08T17:28:46Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:28:46Z" name="tearDown" finished-at="2024-03-08T17:28:46Z" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:29:35Z" name="setUp" finished-at="2024-03-08T17:29:38Z" duration-ms="3078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="customerloginpage()[pri:2, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:29:38Z" name="customerloginpage" finished-at="2024-03-08T17:29:39Z" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerloginpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:29:39Z" name="tearDown" finished-at="2024-03-08T17:29:39Z" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:29:39Z" name="setUp" finished-at="2024-03-08T17:29:41Z" duration-ms="2388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="bankmanagerloginpage()[pri:3, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:29:41Z" name="bankmanagerloginpage" finished-at="2024-03-08T17:29:42Z" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankmanagerloginpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.HomePageCheckingTest@1efe439d]" started-at="2024-03-08T17:29:42Z" name="tearDown" finished-at="2024-03-08T17:29:42Z" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.HomePageCheckingTest -->
+      <class name="com.xyz.qa.testcases.OpenAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.OpenAccountPageTest@be68757]" started-at="2024-03-08T17:28:46Z" name="setUp" finished-at="2024-03-08T17:28:50Z" duration-ms="3477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addcustomerttest()[pri:1, instance:com.xyz.qa.testcases.OpenAccountPageTest@be68757]" started-at="2024-03-08T17:28:50Z" name="addcustomerttest" finished-at="2024-03-08T17:28:51Z" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomerttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.OpenAccountPageTest@be68757]" started-at="2024-03-08T17:28:51Z" name="tearDown" finished-at="2024-03-08T17:28:51Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.OpenAccountPageTest -->
+      <class name="com.xyz.qa.testcases.AddCustomerPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.AddCustomerPageTest@1583741e]" started-at="2024-03-08T17:28:14Z" name="setUp" finished-at="2024-03-08T17:28:19Z" duration-ms="4695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addcustomerttest()[pri:1, instance:com.xyz.qa.testcases.AddCustomerPageTest@1583741e]" started-at="2024-03-08T17:28:19Z" name="addcustomerttest" finished-at="2024-03-08T17:28:19Z" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomerttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.AddCustomerPageTest@1583741e]" started-at="2024-03-08T17:28:19Z" name="tearDown" finished-at="2024-03-08T17:28:19Z" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.AddCustomerPageTest -->
+      <class name="com.xyz.qa.testcases.CustomerLoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.CustomerLoginPageTest@481ba2cf]" started-at="2024-03-08T17:28:30Z" name="setUp" finished-at="2024-03-08T17:28:33Z" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="customerloginpagetest()[pri:1, instance:com.xyz.qa.testcases.CustomerLoginPageTest@481ba2cf]" started-at="2024-03-08T17:28:33Z" name="customerloginpagetest" finished-at="2024-03-08T17:28:34Z" duration-ms="1544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerloginpagetest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.CustomerLoginPageTest@481ba2cf]" started-at="2024-03-08T17:28:34Z" name="tearDown" finished-at="2024-03-08T17:28:34Z" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.CustomerLoginPageTest -->
+      <class name="com.xyz.qa.testcases.AddCustomerPageTestnegative">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.AddCustomerPageTestnegative@5b367418]" started-at="2024-03-08T17:28:20Z" name="setUp" finished-at="2024-03-08T17:28:24Z" duration-ms="4036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addcustomerttest()[pri:1, instance:com.xyz.qa.testcases.AddCustomerPageTestnegative@5b367418]" started-at="2024-03-08T17:28:24Z" name="addcustomerttest" finished-at="2024-03-08T17:28:24Z" duration-ms="721" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertFalse(Assert.java:62)
+	at org.testng.Assert.assertFalse(Assert.java:72)
+	at com.xyz.qa.testcases.AddCustomerPageTestnegative.addcustomerttest(AddCustomerPageTestnegative.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomerttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.AddCustomerPageTestnegative@5b367418]" started-at="2024-03-08T17:28:24Z" name="tearDown" finished-at="2024-03-08T17:28:24Z" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.AddCustomerPageTestnegative -->
+      <class name="com.xyz.qa.testcases.WithdrawlPageTestneagtive">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.WithdrawlPageTestneagtive@7d446ed1]" started-at="2024-03-08T17:29:42Z" name="setUp" finished-at="2024-03-08T17:29:47Z" duration-ms="4860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="withdrawtestinvalidamount()[pri:3, instance:com.xyz.qa.testcases.WithdrawlPageTestneagtive@7d446ed1]" started-at="2024-03-08T17:29:47Z" name="withdrawtestinvalidamount" finished-at="2024-03-08T17:30:08Z" duration-ms="20817" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Transaction Failed. You can not withdraw amount mo')]"}
+  (Session info: chrome=122.0.6261.112)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-3VRRLTE0', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.57 (87957e464700..., userDataDir: C:\Users\yuvia\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c42492832c97454e1a2eaf38da7b3c1
+*** Element info: {Using=xpath, value=//span[contains(text(),'Transaction Failed. You can not withdraw amount mo')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Transaction Failed. You can not withdraw amount mo')]"}
+  (Session info: chrome=122.0.6261.112)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-3VRRLTE0', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.57 (87957e464700..., userDataDir: C:\Users\yuvia\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c42492832c97454e1a2eaf38da7b3c1
+*** Element info: {Using=xpath, value=//span[contains(text(),'Transaction Failed. You can not withdraw amount mo')]}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at jdk.proxy2/jdk.proxy2.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.isDisplayed(Unknown Source)
+	at com.xyz.qa.pages.WithdrawlPage.msgtodisplay2(WithdrawlPage.java:59)
+	at com.xyz.qa.testcases.WithdrawlPageTestneagtive.withdrawtestinvalidamount(WithdrawlPageTestneagtive.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withdrawtestinvalidamount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.WithdrawlPageTestneagtive@7d446ed1]" started-at="2024-03-08T17:30:08Z" name="tearDown" finished-at="2024-03-08T17:30:08Z" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.WithdrawlPageTestneagtive -->
+      <class name="com.xyz.qa.testcases.DepositPageTestnegative">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.DepositPageTestnegative@12d2ce03]" started-at="2024-03-08T17:28:51Z" name="setUp" finished-at="2024-03-08T17:28:54Z" duration-ms="3110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cuslgn()[pri:1, instance:com.xyz.qa.testcases.DepositPageTestnegative@12d2ce03]" started-at="2024-03-08T17:28:54Z" name="cuslgn" finished-at="2024-03-08T17:28:55Z" duration-ms="1461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cuslgn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.DepositPageTestnegative@12d2ce03]" started-at="2024-03-08T17:28:55Z" name="tearDown" finished-at="2024-03-08T17:28:56Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.xyz.qa.testcases.DepositPageTestnegative@12d2ce03]" started-at="2024-03-08T17:29:04Z" name="setUp" finished-at="2024-03-08T17:29:07Z" duration-ms="2565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invaliddeposittets()[pri:2, instance:com.xyz.qa.testcases.DepositPageTestnegative@12d2ce03]" started-at="2024-03-08T17:29:07Z" name="invaliddeposittets" finished-at="2024-03-08T17:29:30Z" duration-ms="22590" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Deposit Successful')]"}
+  (Session info: chrome=122.0.6261.112)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-3VRRLTE0', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.57 (87957e464700..., userDataDir: C:\Users\yuvia\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51117}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e2cfc79730614fe13315045fa60b016c
+*** Element info: {Using=xpath, value=//span[contains(text(),'Deposit Successful')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Deposit Successful')]"}
+  (Session info: chrome=122.0.6261.112)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-3VRRLTE0', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.57 (87957e464700..., userDataDir: C:\Users\yuvia\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51117}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e2cfc79730614fe13315045fa60b016c
+*** Element info: {Using=xpath, value=//span[contains(text(),'Deposit Successful')]}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at jdk.proxy2/jdk.proxy2.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.isDisplayed(Unknown Source)
+	at com.xyz.qa.pages.DepositPage.msgtodisplay(DepositPage.java:89)
+	at com.xyz.qa.testcases.DepositPageTestnegative.invaliddeposittets(DepositPageTestnegative.java:50)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invaliddeposittets -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.xyz.qa.testcases.DepositPageTestnegative@12d2ce03]" started-at="2024-03-08T17:29:30Z" name="tearDown" finished-at="2024-03-08T17:29:30Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.qa.testcases.DepositPageTestnegative -->
+    </test> <!-- XYZ Bank Test Cases -->
+  </suite> <!-- XYZSuite1 -->
+</testng-results>

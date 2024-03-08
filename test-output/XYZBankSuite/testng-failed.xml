@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="12" parallel="classes" name="Failed suite [XYZBankSuite]" guice-stage="DEVELOPMENT">
+  <test parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="com.xyz.qa.testcases.AddCustomerPageTest">
+        <methods>
+          <include name="addcustomerttest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.xyz.qa.testcases.AddCustomerPageTest -->
+      <class name="com.xyz.qa.testcases.AddCustomerPageTestnegative">
+        <methods>
+          <include name="addcustomerttest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.xyz.qa.testcases.AddCustomerPageTestnegative -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [XYZBankSuite] -->
