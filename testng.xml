@@ -3,7 +3,7 @@
 <suite name="XYZSuite1">
 	<!--parallel= "classes" thread-count="2" > 
 
-<class name="com.xyz.qa.testcases.CustomersPageTest" />
+
   <parameter name="browser" value="chrome"></parameter>
 <parameter name="browser" value="Edge"></parameter>-->
 	<test thread-count="5" name="XYZ Bank Test Cases">
@@ -19,6 +19,7 @@
 			<class name="com.xyz.qa.testcases.WithdrawlPageTestneagtive" />
 			<class name="com.xyz.qa.testcases.DepositPageTestnegative" />
 			<class name="com.xyz.qa.testcases.BankManagerLoginPageTest" />
+			<class name="com.xyz.qa.testcases.CustomersPageTest" />
 		</classes>
 	</test> <!-- XYZ Bank Test Cases -->
 </suite> <!-- XYZSuite1 -->
